@@ -1,0 +1,18 @@
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Json read write operation.exe
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Json read write operation.deps.json
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Json read write operation.runtimeconfig.json
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Json read write operation.runtimeconfig.dev.json
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Json read write operation.dll
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Json read write operation.pdb
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.csproj.AssemblyReference.cache
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.AssemblyInfoInputs.cache
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.AssemblyInfo.cs
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.csproj.CoreCompileInputs.cache
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.csproj.CopyComplete
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.dll
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.pdb
+C:\Users\chinmay.padhi\source\repos\Json read write operation\Json read write operation\obj\Debug\netcoreapp3.1\Json read write operation.genruntimeconfig.cache
